@@ -12,6 +12,8 @@
 		0AE749CE1FAAD4EF00F4A7E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AE749CC1FAAD4EF00F4A7E8 /* Main.storyboard */; };
 		0AE749D01FAAD4F000F4A7E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AE749CF1FAAD4F000F4A7E8 /* Assets.xcassets */; };
 		0AE749D31FAAD4F000F4A7E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AE749D11FAAD4F000F4A7E8 /* LaunchScreen.storyboard */; };
+		0AE749DC1FAAD70B00F4A7E8 /* mozart-horn-concerto4-3-rondo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AE749DA1FAAD70B00F4A7E8 /* mozart-horn-concerto4-3-rondo.mp3 */; };
+		0AE749DD1FAAD70B00F4A7E8 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AE749DB1FAAD70B00F4A7E8 /* song.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0AE749CF1FAAD4F000F4A7E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AE749D21FAAD4F000F4A7E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AE749D41FAAD4F000F4A7E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AE749DA1FAAD70B00F4A7E8 /* mozart-horn-concerto4-3-rondo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mozart-horn-concerto4-3-rondo.mp3"; sourceTree = "<group>"; };
+		0AE749DB1FAAD70B00F4A7E8 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		0AE749C71FAAD4EF00F4A7E8 /* audioGesture */ = {
 			isa = PBXGroup;
 			children = (
+				0AE749DA1FAAD70B00F4A7E8 /* mozart-horn-concerto4-3-rondo.mp3 */,
+				0AE749DB1FAAD70B00F4A7E8 /* song.mp3 */,
 				0AE749C81FAAD4EF00F4A7E8 /* AppDelegate.swift */,
 				0AE749CA1FAAD4EF00F4A7E8 /* ViewController.swift */,
 				0AE749CC1FAAD4EF00F4A7E8 /* Main.storyboard */,
@@ -124,8 +130,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AE749D31FAAD4F000F4A7E8 /* LaunchScreen.storyboard in Resources */,
+				0AE749DD1FAAD70B00F4A7E8 /* song.mp3 in Resources */,
 				0AE749D01FAAD4F000F4A7E8 /* Assets.xcassets in Resources */,
 				0AE749CE1FAAD4EF00F4A7E8 /* Main.storyboard in Resources */,
+				0AE749DC1FAAD70B00F4A7E8 /* mozart-horn-concerto4-3-rondo.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
